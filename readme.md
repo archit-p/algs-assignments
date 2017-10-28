@@ -1,5 +1,5 @@
 # Brief
-A repository containing all assignments from Algorithms MOOC conducted by Princeton University on Coursera.
+A repository containing all assignments from Algorithms MOOC conducted by Princeton University on Coursera. All programs are in Java, the language used in the course.
 
 It's strongly suggested that you try doing these problems by yourself for the learning they give you. These solutions are for reference purpose only.
 
@@ -10,5 +10,3 @@ It's strongly suggested that you try doing these problems by yourself for the le
 3. **collinear** - contains weeek 3 assignment files
 4. **8-puzzle** - contains weeek 4 assignment files
 5. **kdtree** - contains week 5 assignment files
-
-Coding in Java......
